@@ -1,0 +1,12 @@
+name: app_microempresario
+title: app_microempresario
+username:
+account: johan-rosa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1694888
+bundleId: 2749067
+url: https://johan-rosa.shinyapps.io/app_microempresario/
+when: 1579796110.8558
+asMultiple: FALSE
+asStatic: FALSE

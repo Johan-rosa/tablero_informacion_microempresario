@@ -1,0 +1,12 @@
+name: app_lisette
+title: app_lisette
+username:
+account: johan-rosa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1685568
+bundleId: 2747094
+url: https://johan-rosa.shinyapps.io/app_lisette/
+when: 1579723948.17105
+asMultiple: FALSE
+asStatic: FALSE
